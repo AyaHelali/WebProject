@@ -1,0 +1,27 @@
+.home-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    color: #333;
+}
+
+.photo-card {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.photo {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.photo-description {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #666;
+}
